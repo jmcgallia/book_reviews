@@ -1,6 +1,11 @@
 # Books
 I review books here as I read them
 
+## A History of the Modern Middle East - Part 3 -  From the Islamic Revival of the 70's till around 2016
+William E. Cleveland & Martin Bunton <br>
+August '23 <br>
+I finally finished this textbook, and am quite satisfied with what I've learned from it. You can only fit so much into a textbook about an entire region of the world with thousand of years of history, but I feel like it did a pretty good job giving the best overview of events till now possible (in about 700 pages.) The final section I'm writing about covered the Islamic revival in the 70's, especially the 1979 revival in Iran, as well as a lot of information about the Gulf States and their formation, Iraq and Syria under Ba'athist regimes, the Lebanese Civil War, Intifadas in Israel and Palestine, the Gulf War, the US invasion of Iraq, the Iran-Iraq war, and more. It also talked extensively about the Palestine and Israel and the history of this conflict, as well as its effects around the middle-east. Finally, the book ends with some of the most recent happenings (in 2016 when it was published): The Iranian Nuclear deal, and the Arab Spring. 
+
 ## A History of the Modern Middle East - Part 2 - From the end of World War I to the Islamic Revival in the 70's
 William E. Cleveland & Martin Bunton <br>
 August '23 <br>
@@ -8,7 +13,7 @@ This section starts with how the British and French broke up the Ottoman Empire 
 
 ## A History of the Modern Middle East - Part 1 - From ancient history until the end of World War I
 William E. Cleveland & Martin Bunton <br>
-May '23 <br>
+June '23 <br>
 The book starts with an overview of ancient civilizations in the middle east and their accomplishments and general histories. Includes ancient Egypt, Persia, the Greek and Roman incursions into the middle east, and more. Next, it focuses a lot on the beginnings of Islam, since it is such an important factor in the middle east, and the history of the Islamic Caliphate and then the migration of Turkic people into the middle east. Finally, the Ottoman Empire and how it worked are discussed in depth (super interesting.) Interesting fact: During the early Ottoman Empire, the Sultan would send his children to be trained as administrators around the country. Upon the Sultan's death, the children would return to the capital and fight to the death. The remaining son would be the next Sultan. Ottoman civil and military practices are also extremely interesting. "The Eastern Question," concerning the relationship of Great Britain, Russia, and the Ottomans is also extremely interesting. 
 
 ## Sapiens
